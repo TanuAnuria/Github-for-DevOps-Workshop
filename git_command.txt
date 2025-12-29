@@ -1,0 +1,21 @@
+git init
+git status
+git add .\Testing.py
+git status
+git rm --cached .\Testing.py
+git status
+git add .
+git status
+git commit -m "Added testing file"
+git config --global user.email "Tanuanuria@gmail.com"
+git config --global user.name "Tanu Anuria"
+git email
+git user.email
+git --global user.email
+git commit -m "Added testing file"
+git status
+rm testing.py
+git status
+git restore Testing.py
+git status
+  
