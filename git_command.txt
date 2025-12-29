@@ -18,4 +18,14 @@ rm testing.py
 git status
 git restore Testing.py
 git status
+git add .\git_command.txt
+git status
+git commit -m "Added Git commands"
+git status
+git remote add origin https://github.com/TanuAnuria/Github-for-DevOps-Workshop.git
+git remote -v
+git remote -v
+git remote set-url origin https://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@github.com/TanuAnuria/Github-for-D... 
+git remote -v
+git push origin master
   
