@@ -25,7 +25,6 @@ git status
 git remote add origin https://github.com/TanuAnuria/Github-for-DevOps-Workshop.git
 git remote -v
 git remote -v
-git remote set-url origin https://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@github.com/TanuAnuria/Github-for-D... 
 git remote -v
 git push origin master
   
